@@ -1,0 +1,17 @@
+{
+    "format_version": 1,
+    "header": {
+        "description": "This is a netmc tutorial mod behavior_pack by @JungWoo",
+        "name": "NetMCTutorialMod",
+        "uuid": "7199a9fa-6409-4399-9828-46c1b10ad3d6",
+        "version": [0, 0, 1]
+    },
+    "modules": [
+        {
+            "description": "This is a netmc tutorial mod behavior_pack by @JungWoo",
+            "type": "data",
+            "uuid": "29983847-bfe7-4b1e-b543-dc860a358d76",
+            "version": [0, 0, 1]
+        }
+    ]
+}
